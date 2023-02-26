@@ -15,22 +15,6 @@ img {
     border-radius: 50%;
 }
 
-div {
-    margin: 50px;
-    padding: 25px 50px 40px 50px;
-}
-
-.introduction {
-    border: yellowgreen 8px solid;
-    margin: 0;
-    width: 500px;
-}
-
-.country {
-    width: 150px;
-    height: 150px;
-}
-
 /* I want to target the avatar class */
 .avatar {
     width: 300px;
